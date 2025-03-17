@@ -1,4 +1,6 @@
 package abstraction.basic1;
 
-public class Geeks {
+abstract class Geeks {
+    abstract void turnOn();
+    abstract void turnOff();
 }
